@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jensonhirst/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Silent Hub | RivalsđŸ¤«đŸ¤«", HidePremium = false, SaveConfig = true, ConfigFolder = "Skibidi"})
+local Window = OrionLib:MakeWindow({Name = "Silent Hub | Rivals🤫🤫", HidePremium = false, SaveConfig = true, ConfigFolder = "Skibidi"})
 
 local chams = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/Roblox-Chams-Highlight/refs/heads/main/Highlight.lua"))()
 
